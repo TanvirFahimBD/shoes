@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  background-color: rgb(248, 248, 244);
+}
+nav .logo,
+.menu {
+  width: 50%;
+  float: left;
+}
+nav img {
+  width: 300px;
+  height: 120px;
+  padding: 50px 0px 50px 70px;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+nav li {
+  list-style: none;
+  float: left;
+  margin-left: 130px;
+  padding: 50px 0;
+}
+main .demo,
+.about-demo {
+  width: 50%;
+  height: 700px;
+  float: left;
+}
+main img {
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+.tomato-font {
+  color: tomato;
+}
+.about-demo {
+  padding: 150px;
+}
+.about-demo p {
+  text-align: justify;
+}
+.panda-card {
+  border: 0;
+}
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+}
+.about .buy-here {
+  width: 50%;
+  float: left;
+}
+.get {
+  width: 50%;
+}
+.get img {
+  width: 10%;
+}
+.buy-here img {
+  width: 30%;
+}
+.btn-new {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 30px;
+}
+.btn-new1 {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
